@@ -1,4 +1,4 @@
-1. Extract the zip file with name contact
+1. Download and Extract the zip file with name contact
 
 2. Import the folder as existing maven project in IDE.
 
